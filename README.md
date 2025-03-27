@@ -1,41 +1,63 @@
-<h1 align="center">Olá 👋, Sou o Guido</h1>
-<h3 align="center">Um programador iniciante Front-end</h3>
+<h1 align="left">glhrmdev front-end developer</h1>
 
-<img align="right" height="150" src="https://i.postimg.cc/T3jRbb3N/IMG-5257-crop.jpg"  />
+###
 
-- 🌱 Atualmente estou aprendendo **React**
+<p align="left">Sou Guilherme, desenvolvedor front-end, minha principal tecnologia atualmente é React.</p>
 
-- 📫 Entre em contato: **glhrmdev@gmail.com**
+###
 
-- ⚡ Fun fact: **Sou advogado migrando de área para a tecnologia.**
+<h2 align="left">Sobre</h2>
 
-##
+###
 
-<h3 align="left">Me encontre por aí:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/glhrmlima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="glhrmlima" height="30" width="40" /> </a>
-<a href="https://instagram.com/guidolimadeoliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guidolimadeoliveira" height="30" width="40" /> </a>
-<a href="https://www.behance.net/guidolima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="guidolima" height="30" width="40" /> </a>
-</p>
+<p align="left">✨ Criando bugs desde 2024<br>📚 Atualmente estou aprendendo sobre Dados<br>🎯 Objetivo: Estágio/Júnior Front-End<br>🎲 Fun fact: falar sobre livros e filmes no tumblr me levou a conhecer HTML e a aprender inglês de forma autodidata.</p>
 
-##
+###
 
-<h3 align="left">Linguagens e ferramentas preferidas:</h3>
-<p align="left">
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  </a>
- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>  </a>
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>  </a>
- <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>  </a>
- <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-</p>
+<h2 align="left">Tecnologias:</h2>
 
-##
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=glhrmlima&show_icons=true&locale=en" alt="glhrmlima" /></p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" alt="behance logo"  />
+</div>
 
-##
+###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=glhrmlima&" alt="glhrmlima" /></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/glhrmlima/glhrmlima/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/glhrmlima/glhrmlima/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/glhrmlima/glhrmlima/output/pacman-contribution-graph.svg">
+</picture>
 
-##
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/glim4">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=glim4&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
