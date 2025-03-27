@@ -2,10 +2,6 @@
 
 ###
 
-<h1 align="left">glhrmdev front-end developer</h1>
-
-###
-
 <p align="left">Sou Guilherme, desenvolvedor front-end, minha principal tecnologia atualmente é React.</p>
 
 ###
