@@ -46,14 +46,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/glhrmlima/glhrmlima/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/glhrmlima/glhrmlima/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/glhrmlima/glhrmlima/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/glim4">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=glim4&count=5&unique=true" alt="Spotify recently played"  />
